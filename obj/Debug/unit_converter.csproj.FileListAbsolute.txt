@@ -1,0 +1,11 @@
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\bin\Debug\unit_converter.exe.config
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\bin\Debug\unit_converter.exe
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\bin\Debug\unit_converter.pdb
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.Properties.Resources.resources
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.csproj.GenerateResource.cache
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.exe
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.pdb
+C:\Users\Stephanie\source\repos\unit_converter\unit_converter\obj\Debug\unit_converter.UnitConverter.resources
